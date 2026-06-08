@@ -7,3 +7,7 @@ ahoj
 
 toto je moja sprava
 toto som ja
+
+bebe
+
+uuuu
