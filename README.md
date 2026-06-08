@@ -8,8 +8,6 @@ ahoj
 toto je moja sprava
 toto som ja
 
-bebe
+haha
 
-uuuu
-
-tttt
+iiii
